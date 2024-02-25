@@ -1,6 +1,6 @@
 # Hi there, I'm [Ganesan]! 👋
 
-![Animated Banner](link-to-your-animated-banner.gif)
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ## 👨‍💻 About Me
 - 🎓 I'm currently studying Electronics And Communication Engineering at [Agni College of Technology].
@@ -23,7 +23,7 @@
 <br />
 
 ## 📊 GitHub Stats
-![GanesanSuresh](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Ganesan2008](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📌 Pinned Repositories
 
