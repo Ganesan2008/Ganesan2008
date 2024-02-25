@@ -1,10 +1,10 @@
 # Hi there, I'm [Your Name]! 👋
 
 ## 👨‍💻 About Me
-- 🎓 I'm currently studying Computer Science at [Your University]
-- 🌱 I'm on a journey learning about web development, data science, or any field you're interested in
-- 🔭 Working on some projects using JavaScript, Python, or any technology
-- 📫 How to reach me: your.email@example.com
+- 🎓 I'm currently studying Electronics and Communication Engineering at [Agni college of Technology]
+- 🌱 I'm on a journey learning about FullStack development,Ethical Hacking,Cybersecurity 
+- 🔭 Working on some projects using JavaScript, Python, HTML&CSS
+- 📫 How to reach me: prasanthganesan905@gmail.com
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
