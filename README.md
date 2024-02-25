@@ -23,7 +23,7 @@
 <br />
 
 ## 📊 GitHub Stats
-![Ganesan2008](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Ganesan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesan2008&show_icons=true&theme=radical)
 
 ## 📌 Pinned Repositories
 
@@ -52,5 +52,4 @@ Feel free to fork this project and contribute to making it more fun and engaging
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)
-
+![Ganesan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganesan2008&bg_color=070307&color=ffffff&line=139a2a&point=f3f4fb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
