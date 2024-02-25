@@ -1,4 +1,4 @@
-# Hi there, I'm [Ganesan Suresh]! 👋
+# Hi there, I'm [Ganesan]! 👋
 
 ![Animated Banner](link-to-your-animated-banner.gif)
 
