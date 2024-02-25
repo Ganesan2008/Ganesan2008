@@ -40,7 +40,7 @@
 - **Blog**: [Your Blog Name](https://yourblog.com)
 
 ## 🔄 Visitor Count
-![https://img.shields.io/github/stars/Ganesan2008/:repo](https://komarev.com/ghpvc/?username=yourusername&color=green)
+![https://img.shields.io/github/stars/Ganesan2008/:repo](https://komarev.com/ghpvc/?username=Ganesan2008&color=green)
 
 ## 🤝 Contributing
 Feel free to fork this project and contribute to making it more fun and engaging. Any contributions, big or small, are greatly appreciated!
@@ -49,7 +49,7 @@ Feel free to fork this project and contribute to making it more fun and engaging
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ganesan2008&theme=onedark)
 
 ## 📈 Contribution Graph
-![Ganesan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganesan2008&bg_color=070307&color=ffffff&line=139a2a&point=f3f4fb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ganesan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganesan2008&bg_color=070307&color=ffffff&line=139a2a&point=f3f4fb&area=true&hide_border=true)]
