@@ -42,9 +42,6 @@
 ## 🔄 Visitor Count
 ![](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
-## 📜 License
-This project is open-source and available under the MIT License.
-
 ## 🤝 Contributing
 Feel free to fork this project and contribute to making it more fun and engaging. Any contributions, big or small, are greatly appreciated!
 
