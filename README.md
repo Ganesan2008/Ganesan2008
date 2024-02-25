@@ -40,7 +40,7 @@
 - **Blog**: [Your Blog Name](https://yourblog.com)
 
 ## 🔄 Visitor Count
-![](https://komarev.com/ghpvc/?username=yourusername&color=green)
+![https://img.shields.io/github/stars/Ganesan2008/:repo](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
 ## 🤝 Contributing
 Feel free to fork this project and contribute to making it more fun and engaging. Any contributions, big or small, are greatly appreciated!
