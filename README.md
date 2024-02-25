@@ -6,7 +6,7 @@
 - 🎓 I'm currently studying Electronics And Communication Engineering at [Agni College of Technology].
 - 🌱 I'm on a journey learning about web development, Ethical Hacking, Cybersecurity .
 - 🔭 Working on some projects using JavaScript, Python, HTML & CSS.
-- 📫 How to reach me:prasnthganesan905@gmail.com
+- 📫 How to reach me:prasanthganesan905@gmail.com
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
