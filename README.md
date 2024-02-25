@@ -35,7 +35,7 @@
 - **[Project Name 2](https://github.com/yourusername/projectname2)**: A brief description of what the project does.
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
+- **LinkedIn**: [Ganesan Suresh](https://www.linkedin.com/in/ganesansuresh/)
 - **Twitter**: [@YourTwitter](https://twitter.com/YourTwitter)
 - **Blog**: [Your Blog Name](https://yourblog.com)
 
