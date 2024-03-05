@@ -36,8 +36,6 @@
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Ganesan Suresh](https://www.linkedin.com/in/ganesansuresh/)
-- **Twitter**: [@YourTwitter](https://twitter.com/YourTwitter)
-- **Blog**: [Your Blog Name](https://yourblog.com)
 
 ## 🔄 Visitor Count
 ![https://img.shields.io/github/stars/Ganesan2008/:repo](https://komarev.com/ghpvc/?username=Ganesan2008&color=green)
